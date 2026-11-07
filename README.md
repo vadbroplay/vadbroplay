@@ -3,7 +3,7 @@
 
 
 <tr>
-  <td valing="top" width="450">
+  <td valing="top" width="450" aling="left">
     <img src="https://leetcard.jacoblin.cool/vadbroplay?theme=nord" alt="Leetcode Stats" />
   </td>
   <td valing="top" width="250" aling="right">
