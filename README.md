@@ -3,7 +3,7 @@
 
 
 <p>
-  <b valing="top">
+  <b valing="top" width="50%">
     <img src="https://leetcard.jacoblin.cool/vadbroplay?theme=nord" alt="Leetcode Stats" />
   </b>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=eqlww205nfgoi1wccnfvnfi9a&redirect=true">
